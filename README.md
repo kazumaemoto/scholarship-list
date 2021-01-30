@@ -59,6 +59,12 @@ This is a list of scholarships.
 - 対象：学部・修士・博士
 - 支給額：年額300,000円
 
+### [日本証券奨学財団 奨学事業](https://jssf.or.jp)
+
+- 方式：給付
+- 対象：学部・修士・博士
+- 支給額：月額45,000円（自宅外通学者は55,000円）
+
 ## 海外
 
 ### [JASSO海外留学支援制度](https://www.jasso.go.jp/ryugaku/tantosha/study_a/short_term_h/index.html)
