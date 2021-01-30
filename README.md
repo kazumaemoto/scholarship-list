@@ -82,6 +82,12 @@ This is a list of scholarships.
 - 方式：給付
 - 対象：高校・高専・学部・修士・博士
 
+### 萬谷記念かながわ奨学基金奨学生
+
+- 方式：給付
+- 対象：修士・博士
+- 支給額：年額80万円（修士）、年額120万円（博士）
+
 ## 海外
 
 ### [JASSO海外留学支援制度](https://www.jasso.go.jp/ryugaku/tantosha/study_a/short_term_h/index.html)
