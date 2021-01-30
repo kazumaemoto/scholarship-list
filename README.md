@@ -11,6 +11,18 @@ This is a list of scholarships.
 - 対象：修士・博士
 - 支給額：修士 月額75,000円、 博士 月額100,000円
 
+### [吉田育英会 マスター21](http://www.ysf.or.jp)
+
+- 方式：給付
+- 対象：修士
+- 支給額：月額80,000円
+
+### [吉田育英会 ドクター21](http://www.ysf.or.jp)
+
+- 方式：給付
+- 対象：博士
+- 支給額：月額200,000円
+
 ## 海外
 
 ### [JASSO海外留学支援制度](https://www.jasso.go.jp/ryugaku/tantosha/study_a/short_term_h/index.html)
@@ -24,6 +36,11 @@ This is a list of scholarships.
 - 期間：3ヶ月～1年
 - 支給額：100～140万円
 - 研究費：上限20万円
+
+### [吉田育英会 日本人派遣留学プログラム](http://www.ysf.or.jp)
+
+- 方式：給付
+- 支給額：月額200,000円
 
 ### [JSPS特別研究員に対する海外渡航支援](https://www.jsps.go.jp/j-pd/pd_user-haken.html)
 
