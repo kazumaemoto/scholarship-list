@@ -77,6 +77,11 @@ This is a list of scholarships.
 - 対象：学部・修士・博士
 - 支給額：月額60,000円（修士・博士）、月額35,000円（学部）
 
+### [佐藤奨学会](https://www.sato-shogakukai.jp)
+
+- 方式：給付
+- 対象：高校・高専・学部・修士・博士
+
 ## 海外
 
 ### [JASSO海外留学支援制度](https://www.jasso.go.jp/ryugaku/tantosha/study_a/short_term_h/index.html)
