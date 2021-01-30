@@ -149,19 +149,21 @@ This is a list of scholarships.
 ### [JSPS若手研究者海外挑戦プログラム](https://www.jsps.go.jp/j-abc/index.html)
 
 - 方式：給付
+- 対象：博士
 - 期間：3ヶ月～1年
 - 支給額：100～140万円
 - 研究費：上限20万円
+
+### [JSPS特別研究員に対する海外渡航支援](https://www.jsps.go.jp/j-pd/pd_user-haken.html)
+
+- 方式：給付
+- 対象：博士
 
 ### [吉田育英会 日本人派遣留学プログラム](http://www.ysf.or.jp)
 
 - 方式：給付
 - 期間：2年
 - 支給額：月額200,000円
-
-### [JSPS特別研究員に対する海外渡航支援](https://www.jsps.go.jp/j-pd/pd_user-haken.html)
-
-- 方式：給付
 
 ### [村田海外留学奨学会](https://www.muratec.jp/murata-scholarship/)
 
