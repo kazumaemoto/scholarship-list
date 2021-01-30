@@ -91,8 +91,14 @@ This is a list of scholarships.
 ### [似鳥国際奨学財団](https://www.nitori-shougakuzaidan.com)
 
 - 方式：給付
-- 対象：学部修士
-- 支給額：月額50,000万円
+- 対象：学部・修士
+- 支給額：月額50,000円
+
+### [フィックスターズ奨学金](https://www.fixstars.com/ja/recruit/scholarship/)
+
+- 方式：給付
+- 対象：学部・修士・博士
+- 支給額：年額60万円
 
 ## 海外
 
