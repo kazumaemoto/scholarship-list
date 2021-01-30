@@ -112,6 +112,12 @@ This is a list of scholarships.
 - 対象：学部・修士・博士
 - 支給額：月額30,000円（学部）、月額40,000円（修士・博士）
 
+### [味の素奨学会](http://ajischolarship.com)
+
+- 方式：貸与
+- 対象：学部・修士・博士
+- 支給額：月額30,000〜45,000円
+
 ## 海外
 
 ### [JASSO海外留学支援制度](https://www.jasso.go.jp/ryugaku/tantosha/study_a/short_term_h/index.html)
