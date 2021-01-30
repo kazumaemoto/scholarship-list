@@ -191,7 +191,7 @@ This is a list of scholarships.
 ---
 
 このリストに追加したい場合は、私に連絡するか、プルリクを送ってください。  
-If you want to add any postdoctor jobs to this list, please contact me or send a pull request.
+If you want to add any scholarships to this list, please contact me or send a pull request.
 
 ---
 
