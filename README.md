@@ -29,6 +29,12 @@ This is a list of scholarships.
 - 対象：学部・修士・博士
 - 支給額：月額120,000円
 
+### [樫の芽会](https://www.kashinomekai.or.jp)
+
+- 方式：貸与
+- 対象：学部・修士・博士
+- 支給額：月額40,000円
+
 ## 海外
 
 ### [JASSO海外留学支援制度](https://www.jasso.go.jp/ryugaku/tantosha/study_a/short_term_h/index.html)
