@@ -5,6 +5,11 @@ This is a list of scholarships.
 
 ## 国内
 
+### [日本学生支援機構](https://www.jasso.go.jp)
+
+- 方式：給付・貸与
+- 対象：学部・修士・博士
+
 ### [旭硝子財団](https://www.af-info.or.jp/scholarship/about.html)
 
 - 方式：給付
