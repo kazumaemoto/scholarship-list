@@ -71,6 +71,12 @@ This is a list of scholarships.
 - 対象：学部・修士・博士
 - 支給額：月額30,000円
 
+### [中部奨学会 奨学金制度](https://nakabe-foundation.org)
+
+- 方式：給付・貸与
+- 対象：学部・修士・博士
+- 支給額：月額60,000円（修士・博士）、月額35,000円（学部）
+
 ## 海外
 
 ### [JASSO海外留学支援制度](https://www.jasso.go.jp/ryugaku/tantosha/study_a/short_term_h/index.html)
