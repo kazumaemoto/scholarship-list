@@ -23,6 +23,12 @@ This is a list of scholarships.
 - 対象：博士
 - 支給額：月額200,000円
 
+### [山田長満奨学会](https://www.yamada-foundation.or.jp)
+
+- 方式：給付
+- 対象：学部・修士・博士
+- 支給額：月額120,000円
+
 ## 海外
 
 ### [JASSO海外留学支援制度](https://www.jasso.go.jp/ryugaku/tantosha/study_a/short_term_h/index.html)
@@ -40,6 +46,7 @@ This is a list of scholarships.
 ### [吉田育英会 日本人派遣留学プログラム](http://www.ysf.or.jp)
 
 - 方式：給付
+- 期間：2年
 - 支給額：月額200,000円
 
 ### [JSPS特別研究員に対する海外渡航支援](https://www.jsps.go.jp/j-pd/pd_user-haken.html)
