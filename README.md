@@ -15,6 +15,8 @@ This is a list of scholarships.
 - 支給額：100～140万円
 - 研究費：上限20万円
 
+### [JSPS特別研究員に対する海外渡航支援](https://www.jsps.go.jp/j-pd/pd_user-haken.html)
+
 ### [村田海外留学奨学会](https://www.muratec.jp/murata-scholarship/)
 
 - 期間：最大2年
