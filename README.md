@@ -190,6 +190,11 @@ This is a list of scholarships.
 
 ---
 
+このリストに追加したい場合は、私に連絡するか、プルリクを送ってください。  
+If you want to add any postdoctor jobs to this list, please contact me or send a pull request.
+
+---
+
 This page was written by [Kazuma Emoto](https://github.com/kazumaemoto).
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
 [Source code](https://github.com/kazumaemoto/scholarship-list)
