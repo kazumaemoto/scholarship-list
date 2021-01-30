@@ -100,6 +100,12 @@ This is a list of scholarships.
 - 対象：学部・修士・博士
 - 支給額：年額60万円
 
+### [双葉電子記念財団](http://futaba-zaidan.org)
+
+- 方式：給付
+- 対象：博士
+- 支給額：月額100,000a円
+
 ## 海外
 
 ### [JASSO海外留学支援制度](https://www.jasso.go.jp/ryugaku/tantosha/study_a/short_term_h/index.html)
