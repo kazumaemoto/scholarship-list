@@ -53,6 +53,12 @@ This is a list of scholarships.
 - 対象：学部・修士・博士
 - 支給額：月額30,000円
 
+### [日揮・実吉奨学会 給与奨学金制度](https://www.jgcs.or.jp)
+
+- 方式：給付
+- 対象：学部・修士・博士
+- 支給額：年額300,000円
+
 ## 海外
 
 ### [JASSO海外留学支援制度](https://www.jasso.go.jp/ryugaku/tantosha/study_a/short_term_h/index.html)
@@ -86,6 +92,12 @@ This is a list of scholarships.
 
 - 方式：給付
 - 支給額：月額20万円（1～2年間）、月額18万円（3年間まで）、月額15万円（4年を超える期間）
+
+### [日揮・実吉奨学会 海外留学奨学金制度](https://www.jgcs.or.jp)
+
+- 方式：給付
+- 対象：修士・博士
+- 支給額：月額150,000円
 
 ### [IAESTE](https://iaeste.or.jp)
 
