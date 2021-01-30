@@ -88,6 +88,12 @@ This is a list of scholarships.
 - 対象：修士・博士
 - 支給額：年額80万円（修士）、年額120万円（博士）
 
+### [似鳥国際奨学財団](https://www.nitori-shougakuzaidan.com)
+
+- 方式：給付
+- 対象：学部修士
+- 支給額：月額50,000万円
+
 ## 海外
 
 ### [JASSO海外留学支援制度](https://www.jasso.go.jp/ryugaku/tantosha/study_a/short_term_h/index.html)
