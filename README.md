@@ -16,6 +16,7 @@ This is a list of scholarships.
 ### [JASSO海外留学支援制度](https://www.jasso.go.jp/ryugaku/tantosha/study_a/short_term_h/index.html)
 
 - 方式: 給付
+- 支給額：6〜10万円
 
 ### [JSPS若手研究者海外挑戦プログラム](https://www.jsps.go.jp/j-abc/index.html)
 
