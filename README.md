@@ -15,6 +15,10 @@ This is a list of scholarships.
 - 支給額：100～140万円
 - 研究費：上限20万円
 
+### [村田海外留学奨学会](https://www.muratec.jp/murata-scholarship/)
+
+- 期間：最大2年
+
 ---
 
 This page was written by [Kazuma Emoto](https://github.com/kazumaemoto).
