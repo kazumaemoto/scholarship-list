@@ -5,6 +5,11 @@ This is a list of scholarships.
 
 ## 国内
 
+### [旭硝子財団](https://www.af-info.or.jp/scholarship/about.html)
+
+- 対象：修士・博士
+- 支給額：修士 月額75,000円、 博士 月額100,000円
+
 ## 海外
 
 ### [JASSO海外留学支援制度](https://www.jasso.go.jp/ryugaku/tantosha/study_a/short_term_h/index.html)
