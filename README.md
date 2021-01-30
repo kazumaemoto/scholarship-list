@@ -142,6 +142,10 @@ This is a list of scholarships.
 - 方式: 給付
 - 支給額：6〜10万円
 
+### [トビタテ！留学JAPAN日本代表プログラム](https://tobitate.mext.go.jp/program/)
+
+- 方式: 給付
+
 ### [JSPS若手研究者海外挑戦プログラム](https://www.jsps.go.jp/j-abc/index.html)
 
 - 方式：給付
