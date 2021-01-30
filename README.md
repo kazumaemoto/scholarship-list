@@ -65,6 +65,12 @@ This is a list of scholarships.
 - 対象：学部・修士・博士
 - 支給額：月額45,000円（自宅外通学者は55,000円）
 
+### [岩崎ともみ奨学財団](https://www.iwasaki.ac.jp/scholarship/index.html)
+
+- 方式：給付
+- 対象：学部・修士・博士
+- 支給額：月額30,000円
+
 ## 海外
 
 ### [JASSO海外留学支援制度](https://www.jasso.go.jp/ryugaku/tantosha/study_a/short_term_h/index.html)
