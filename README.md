@@ -23,6 +23,8 @@ This is a list of scholarships.
 
 - 支給額：月額20万円（1～2年間）、月額18万円（3年間まで）、月額15万円（4年を超える期間）
 
+### [IAESTE](https://iaeste.or.jp)
+
 ---
 
 This page was written by [Kazuma Emoto](https://github.com/kazumaemoto).
