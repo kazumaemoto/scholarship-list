@@ -41,6 +41,18 @@ This is a list of scholarships.
 - 対象：修士・博士
 - 支給額：月額30,000円
 
+### [中村積善会 給費併用型貸費奨学金](http://nakamurasekizenkai.org)
+
+- 方式：給付・貸与
+- 対象：学部・修士・博士
+- 支給額：給付月額30,000円・貸与月額50,000円
+
+### [中村積善会 給費奨学金](http://nakamurasekizenkai.org)
+
+- 方式：給付
+- 対象：学部・修士・博士
+- 支給額：月額30,000円
+
 ## 海外
 
 ### [JASSO海外留学支援制度](https://www.jasso.go.jp/ryugaku/tantosha/study_a/short_term_h/index.html)
