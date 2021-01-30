@@ -19,6 +19,10 @@ This is a list of scholarships.
 
 - 期間：最大2年
 
+### [本庄国際奨学財団 海外留学日本人大学院生奨学金](https://www.hisf.or.jp/scholarship/abroad/)
+
+- 支給額：月額20万円（1～2年間）、月額18万円（3年間まで）、月額15万円（4年を超える期間）
+
 ---
 
 This page was written by [Kazuma Emoto](https://github.com/kazumaemoto).
