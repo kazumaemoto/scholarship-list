@@ -177,6 +177,11 @@ This is a list of scholarships.
 
 ### [IAESTE](https://iaeste.or.jp)
 
+### [フランス政府奨学金](https://jp.ambafrance.org/article16003)
+
+- 方式：給付
+- 対象：学部・修士・博士
+
 ---
 
 This page was written by [Kazuma Emoto](https://github.com/kazumaemoto).
