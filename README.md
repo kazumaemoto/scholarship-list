@@ -181,6 +181,12 @@ This is a list of scholarships.
 - 対象：修士・博士
 - 支給額：月額150,000円
 
+### [渡邉財団 渡邉利三国際奨学金](https://www.watanabe-zaidan.or.jp)
+
+- 方式：給付
+- 対象：修士・博士
+- 支給額：月額150,000円
+
 ### [IAESTE](https://iaeste.or.jp)
 
 ### [フランス政府奨学金](https://jp.ambafrance.org/article16003)
